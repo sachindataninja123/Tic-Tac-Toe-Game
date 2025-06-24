@@ -22,3 +22,4 @@ This is a classic **Tic Tac Toe** game built with **HTML**, **CSS**, and **JavaS
 -  **JavaScript (ES6)** – for game logic, interactivity, and DOM manipulation
 
 
+Created by : Sachin Kushwaha
